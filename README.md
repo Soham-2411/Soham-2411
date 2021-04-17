@@ -19,7 +19,8 @@ Hi, My name is Soham Sakaria. I am a 2nd Year Student at SRM Institute of scienc
 
 ## printf("\n Hello World!! 😃");
 - 💬 Ask me about anything and everything.
-- 📫 LinkedIn profile: [Soham Sakaria](https://www.linkedin.com/in/soham-sakaria-13251718b/)
+- LinkedIn profile: [Soham Sakaria](https://www.linkedin.com/in/soham-sakaria-13251718b/)
+- GitHub profile: You're already there!
 
 <img src='https://github-readme-stats.vercel.app/api?username=Soham-2411&show_icons=true&theme=dark' width='500'>
 
