@@ -6,6 +6,17 @@
 
 Hi, My name is Soham Sakaria. I am a 2nd Year Student at SRM Institute of science and technology pursuing my Bachelor's Degree in Computer Science and Engineering. I am a 19 year old, doing whatever code I like and can to make my and other lives around me more fun. 
 
+## Achievements :- 
+
+#### Hackathons:- 
+1. Winners of HackYuva Hackathon 2020 (Elixir).
+2. Winners of SyntHacks 2020 - Best Health Application (Elixir).
+3. Winners of Codestellation 2020 - Best Mobile/Web App (MedWatch).
+4. Winner of Geekathon 2020 (SafeLink)
+5. Special Mention Award in SRM Hackathon 2021 (Stud-Bud)
+6. Honourable Mention Award in Hacktrix Hackathon (ThinkArt)
+7. EchoAR track prize in Hacktrix Hackathon and project displayed in EchoAr Inspiration Page (ThinkArt).
+
 ## printf("\n Hello World!! 😃");
 - 💬 Ask me about anything and everything.
 - 📫 LinkedIn profile: [Soham Sakaria](https://www.linkedin.com/in/soham-sakaria-13251718b/)
