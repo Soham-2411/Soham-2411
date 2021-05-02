@@ -17,7 +17,7 @@ Hi, My name is Soham Sakaria. I am a 2nd Year Student at SRM Institute of scienc
 6. Honourable Mention Award in Hacktrix Hackathon (ThinkArt)
 7. EchoAR track prize in Hacktrix Hackathon and project displayed in EchoAr Inspiration Page (ThinkArt).
 
-## printf("\n Hello World!! 😃");
+## cout<<"HELLO WORLD...!!!";
 - 💬 Ask me about anything and everything.
 - LinkedIn profile: [Soham Sakaria](https://www.linkedin.com/in/soham-sakaria-13251718b/)
 - GitHub profile: You're already there!
