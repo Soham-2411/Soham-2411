@@ -20,7 +20,6 @@ Hi, My name is Soham Sakaria. I am a 3rd Year Student at SRM Institute of scienc
 ## cout<<"HELLO WORLD...!!!";
 - 💬 Ask me about anything and everything.
 - LinkedIn profile: [Soham Sakaria](https://www.linkedin.com/in/soham-sakaria-13251718b/)
-- GitHub profile: You're already there!
 - Medium profile: [Soham Sakaria](https://medium.com/@sohamsakaria)
 
 <img src='https://github-readme-stats.vercel.app/api?username=Soham-2411&show_icons=true&theme=dark' width='500'>
