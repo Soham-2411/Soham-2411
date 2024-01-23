@@ -47,4 +47,4 @@ Bonjour! I go by the name Soham Sakaria, and I'm currently enrolled as a graduat
 <p><img src="https://komarev.com/ghpvc/?username=Soham-2411&style=flat&color=e06c75&label=visitors"/></p>
 
 ## Contributions:-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Soham-2411&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
