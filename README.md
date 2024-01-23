@@ -14,6 +14,8 @@ Bonjour! I go by the name Soham Sakaria, and I'm currently enrolled as a graduat
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Languages:-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,6 +23,7 @@ Bonjour! I go by the name Soham Sakaria, and I'm currently enrolled as a graduat
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[ref](https://github.com/Ileriayo/markdown-badges)
 
 ## Achievements :- 
 
@@ -33,7 +36,7 @@ Bonjour! I go by the name Soham Sakaria, and I'm currently enrolled as a graduat
 6. Honourable Mention Award in Hacktrix Hackathon (ThinkArt)
 7. EchoAR track prize in Hacktrix Hackathon and project displayed in EchoAr Inspiration Page (ThinkArt).
 
-## cout<<"HELLO WORLD...!!!";
+## System.out.println("Hello world");
 - 💬 Ask me about anything and everything.
 - LinkedIn profile: [Soham Sakaria](https://www.linkedin.com/in/soham-sakaria-13251718b/)
 - Medium profile: [Soham Sakaria](https://medium.com/@sohamsakaria)
