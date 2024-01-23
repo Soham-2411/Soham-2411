@@ -38,6 +38,7 @@ Bonjour! I go by the name Soham Sakaria, and I'm currently enrolled as a graduat
 
 ## System.out.println("Hello world");
 - 💬 Ask me about anything and everything.
+- Portfolio: [Soham Sakaria](https://soham-2411.github.io/personal_website/)
 - LinkedIn profile: [Soham Sakaria](https://www.linkedin.com/in/soham-sakaria-13251718b/)
 - Medium profile: [Soham Sakaria](https://medium.com/@sohamsakaria)
 
