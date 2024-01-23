@@ -6,6 +6,9 @@
 
 Bonjour! I go by the name Soham Sakaria, and I'm currently enrolled as a graduate student at Concordia University in Montreal. I'm pursuing a Master's degree in Applied Computer Science, and at the age of 21, I'm dedicated to crafting code that not only brings joy to my own life but also enhances the experiences of those around me. 
 
+## Technologies:-
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
 ## Achievements :- 
 
 #### Hackathons:- 
