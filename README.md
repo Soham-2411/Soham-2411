@@ -8,6 +8,7 @@ Bonjour! I go by the name Soham Sakaria, and I'm currently enrolled as a graduat
 
 ## Technologies:-
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Achievements :- 
 
