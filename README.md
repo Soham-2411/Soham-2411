@@ -32,7 +32,7 @@ Bonjour! I go by the name Soham Sakaria, and I'm currently enrolled as a graduat
 6. Honourable Mention Award in Hacktrix Hackathon (ThinkArt)
 7. EchoAR track prize in Hacktrix Hackathon and project displayed in EchoAr Inspiration Page (ThinkArt).
 
-## System.out.println("Hello world");
+## console.log("Hello world")
 - 💬 Ask me about anything and everything.
 - Portfolio: [Soham Sakaria](https://soham-2411.github.io/personal_website/)
 - LinkedIn profile: [Soham Sakaria](https://www.linkedin.com/in/soham-sakaria-13251718b/)
