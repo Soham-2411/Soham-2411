@@ -2,7 +2,7 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-Bonjour! I go by the name Soham Sakaria, and I'm currently enrolled as a graduate student at Concordia University in Montreal. I'm pursuing a Master's degree in Applied Computer Science, and at the age of 21, I'm dedicated to crafting code that not only brings joy to my own life but also enhances the experiences of those around me. 
+Bonjour! I go by the name Soham Sakaria, and I'm currently enrolled as a graduate student at Concordia University in Montreal. I'm pursuing a Master's degree in Applied Computer Science, and at the age of 23, I'm dedicated to crafting code that not only brings joy to my own life but also enhances the experiences of those around me. 
 
 ## Technologies:-
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
